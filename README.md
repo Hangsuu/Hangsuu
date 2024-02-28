@@ -1,11 +1,42 @@
-<h1 align="center">Hi 👋, I'm HaengSeo</h1>
-<h3 align="center">K-people</h3>
+<h1>👋 Hangsuu</h1>
+<h3>백엔드 지향 풀스택 개발자입니다</h3>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohhangsu)](https://solved.ac/ohhangsu/)
+<img src="https://github-readme-stats.vercel.app/api?username=hangsuu&show_icons=true&locale=en&theme=gruvbox" alt="hangsuu" />
+
+<br>
+<h2 align="left"> :muscle: Skills</h2>
+<h3>Languages</h3>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" height="30px" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="30px" width="auto" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" height="30px" width="auto" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3>Tools </h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" height="30px" width="auto" />
+  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" height="30px" width="auto" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hangsuu&show_icons=true&locale=en" alt="hangsuu" /></p>
+<br>
+
+<h2 align="left"> :mailbox_with_mail: Contacts</h2>
+
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ohhangsu@naver.com)](mailto:ohhangsu@naver.com)
+
+<br>
+
+<h2 align="left">Ect</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangsuu)](https://github.com/Hangsuu/github-readme-stats)
+
