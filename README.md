@@ -30,12 +30,6 @@
 
 <br>
 
-<h2 align="left"> :mailbox_with_mail: Contacts</h2>
-
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ohhangsu@naver.com)](mailto:ohhangsu@naver.com)
-
-<br>
-
 <h2 align="left">Ect</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangsuu)](https://github.com/Hangsuu/github-readme-stats)
